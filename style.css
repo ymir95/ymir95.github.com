@@ -21,7 +21,7 @@ display: block;
 z-index: 999;
 }
 #Menu ul li a {
-    width: 200px;
+    width: 80px;
 }
 #Menu li:hover ul {
     display: block;

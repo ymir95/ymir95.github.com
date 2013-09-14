@@ -11,8 +11,8 @@
 #Menu li a {
 display: block;
     height: 2em;
-    line-height: 2em;
-    padding: 1.5em;
+    line-height: 4em;
+    padding: 0 1.5em;
     text-decoration: none;
 }
 #Menu ul {

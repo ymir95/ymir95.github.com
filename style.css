@@ -26,3 +26,27 @@ z-index: 999;
 #Menu li:hover ul {
     display: block;
 }
+#Menu {
+    font-family: Arial;
+    font-size: 12px;
+    background: #2f8be8;
+}
+#Menu > li > a {
+    color: #fff;
+    font-weight: bold;
+}
+#Menu > li:hover > a {
+    background: #f09d28;
+    color: #000;
+}
+ 
+/* Submenu
+------------------------------------------*/
+#Menu ul {
+    background: #f09d28;
+}
+#Menu ul li a {
+    color: #000;
+}
+#Menu ul li:hover a {
+    background: #ffc97c;

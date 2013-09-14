@@ -21,14 +21,14 @@ display: block;
 z-index: 999;
 }
 #Menu ul li a {
-    width: 80px;
+    width: 200px;
 }
 #Menu li:hover ul {
     display: block;
 }
 #Menu {
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     background: #2f8be8;
 }
 #Menu > li > a {
